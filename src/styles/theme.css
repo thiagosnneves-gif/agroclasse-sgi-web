@@ -3,10 +3,11 @@
   --color-primary-dark: #4E8E34;
   --color-secondary: #3F4A44;
 
-  --color-bg: #0B0F0C;
-  --color-bg-soft: #121814;
-  --color-border: #1F2A23;
+  /* Changed background color to a very light green as requested */
+  --color-bg: #F0FDF4; 
+  --color-bg-soft: #DCFCE7;
+  --color-border: #BBF7D0;
 
-  --color-text: #E5E7EB;
-  --color-text-muted: #9CA3AF;
+  --color-text: #1F2937;
+  --color-text-muted: #6B7280;
 }
