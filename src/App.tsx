@@ -1,13 +1,13 @@
 import { Navigate, Route, Routes } from "react-router-dom";
-import AppShell from "./app/layout/AppShell";
-import Dashboard from "./app/routes/Dashboard";
-import Cadastros from "./app/routes/Cadastros";
-import Comercial from "./app/routes/Comercial";
-import Despesas from "./app/routes/Despesas";
-import Estoque from "./app/routes/Estoque";
-import Financeiro from "./app/routes/Financeiro";
-import Relatorios from "./app/routes/Relatorios";
-import Configuracoes from "./app/routes/Configuracoes";
+import AppShell from "@/app/layout/AppShell";
+import Dashboard from "@/app/routes/Dashboard";
+import Cadastros from "@/app/routes/Cadastros";
+import Comercial from "@/app/routes/Comercial";
+import Despesas from "@/app/routes/Despesas";
+import Estoque from "@/app/routes/Estoque";
+import Financeiro from "@/app/routes/Financeiro";
+import Relatorios from "@/app/routes/Relatorios";
+import Configuracoes from "@/app/routes/Configuracoes";
 
 const App = () => {
   return (
