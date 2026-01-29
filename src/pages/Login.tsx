@@ -33,7 +33,7 @@ export const Login = () => {
       <div className="w-full max-w-md space-y-8">
         <div className="flex flex-col items-center text-center">
             <div className="mb-6">
-                 <img src="/images/logo_vertical.svg" alt="Logo Agroclasse" className="h-24 w-auto" />
+                 <img src="https://app.agroclasse.com/images/logo_vertical.svg" alt="Logo Agroclasse" className="h-24 w-auto" />
             </div>
             <h2 className="text-2xl font-bold text-text-primary tracking-tight">
                 SGI | Agroclasse

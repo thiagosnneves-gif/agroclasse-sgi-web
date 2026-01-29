@@ -17,7 +17,7 @@ export const Sidebar = () => {
     <aside className="w-64 bg-surface border-r border-border flex flex-col h-full">
       <div className="h-16 flex items-center px-6 border-b border-border">
         <div className="flex items-center gap-2">
-          <img src="/images/logo_horizontal.svg" alt="Agroclasse" className="h-8" />
+          <img src="https://app.agroclasse.com/images/logo_horizontal.svg" alt="Agroclasse" className="h-8" />
         </div>
       </div>
       
