@@ -15,9 +15,9 @@ export const Sidebar = () => {
 
   return (
     <aside className="w-64 bg-surface border-r border-border flex flex-col h-full">
-      <div className="h-16 flex items-center px-6 border-b border-border">
+      <div className="h-32 flex items-center px-6 border-b border-border">
         <div className="flex items-center gap-2">
-          <img src="https://app.agroclasse.com/images/logo_horizontal.svg" alt="Agroclasse" className="h-8" />
+          <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop,q=95/xiN0ar6vO5xH3oeO/agroclasse_logo_final-QVi7WNIYzK7iom96.png" alt="Agroclasse" className="h-24" />
         </div>
       </div>
       
